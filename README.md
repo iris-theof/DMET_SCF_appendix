@@ -1,1 +1,2 @@
-# DMET_SCF_appendix
+# Project content
+In this project we include two Jupyter Notebooks one for the calculations presented in Appendix A and one for Appendix B of our draft "Non-uniqueness problems of density-matrix embedding theory: a density-matrix functional perspective". Using few site lattice non-interacting Hamiltonians we build some of the ingredients of the DMET procedure like the projection in different spaces. In the Jupyter Notebooks we explain step by step what is calculated with python including equations and text. The calculations presented are cheap as they are meant to be pedagogical and not for investigating realistic systems so one could run them using a laptop.
